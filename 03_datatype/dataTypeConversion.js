@@ -44,4 +44,17 @@ console.log(Boolean(booleanEmptyString));   // false
 let booleanString = "abc";
 console.log(Boolean(booleanString));   // true
 
+//--------------- Notes for Boolean-------------
+/*
+    1 = true 
+    0 = false
+    "" = false
+    "abc" = true
+*/
+
+
+
+
+
+
 
